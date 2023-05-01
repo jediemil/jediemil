@@ -1,4 +1,6 @@
-### Hi there 👋
+1. Hobbyist electrical engineer
+2. Huge microcontroller nerd
+3. **Hates to write documentation**
 
 <!--
 **jediemil/jediemil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
