@@ -1,6 +1,8 @@
-1. Hobbyist electrical engineer
-2. Huge microcontroller nerd
-3. **Hates to write documentation**
+1. Create a lot of projects
+2. Forget to upload them to git
+3. **Documentation is optional**
+4. Never finish projects
+5. Profit.
 
 <!--
 **jediemil/jediemil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
