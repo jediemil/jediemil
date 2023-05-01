@@ -1,8 +1,9 @@
-1. Create a lot of projects
-2. Forget to upload them to git
-3. **Documentation is optional**
-4. Never finish projects
-5. Profit.
+1. Start a new project
+2. Make good hardware and ruin it with terrible code
+3. Forget to upload it to git
+4. **Documentation is optional**
+5. Repeat steps above before the last project is finished
+6. Profit.
 
 <!--
 **jediemil/jediemil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
