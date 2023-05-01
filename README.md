@@ -1,6 +1,6 @@
 1. Start a new project
 2. Make good hardware and ruin it with terrible code
-3. Forget to upload it to git
+3. Forget to upload it to GitHub
 4. **Documentation is optional**
 5. Repeat the steps listed above before the previous project has been finished
 6. Profit.
